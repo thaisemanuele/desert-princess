@@ -1,0 +1,40 @@
+{
+  "name": "desert-princess",
+  "displayName": "Desert Princess",
+  "description": "A dark VS Code theme with desert-night indigo, palace turquoise, lilac silk and a glint of lamp gold.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "turquoise",
+    "teal",
+    "indigo",
+    "lilac",
+    "gold"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/desert-princess"
+  },
+  "galleryBanner": {
+    "color": "#15132b",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Desert Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desert-princess-color-theme.json"
+      }
+    ]
+  }
+}

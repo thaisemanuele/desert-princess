@@ -1,0 +1,22 @@
+{
+  "name": "Desert Princess",
+  "slug": "desert-princess",
+  "description": "A dark VS Code theme with desert-night indigo, palace turquoise, lilac silk and a glint of lamp gold.",
+  "keywords": ["theme", "dark theme", "turquoise", "teal", "indigo", "lilac", "gold"],
+  "colors": {
+    "bgDeep": "#0F0E1F",
+    "bgEditor": "#15132B",
+    "bgWidget": "#221F42",
+    "accent": "#087F91",
+    "text": "#ECE8F6",
+    "comment": "#8C86BC",
+    "keyword": "#43C7C7",
+    "func": "#D8C6EC",
+    "string": "#BA91D1",
+    "type": "#8FEDE6",
+    "special": "#F2BA60"
+  },
+  "tokenOverrides": {
+    "Control flow and module keywords": { "foreground": "#5FDBD5", "fontStyle": "italic" }
+  }
+}
