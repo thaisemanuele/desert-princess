@@ -28,6 +28,19 @@
     "Control flow and module keywords": {
       "foreground": "#5FDBD5",
       "fontStyle": "italic"
+    },
+    "Type, class and interface": {
+      "foreground": "#F2BA60",
+      "fontStyle": "italic"
+    },
+    "Number": {
+      "foreground": "#F2BA60"
+    },
+    "Language constant": {
+      "foreground": "#F2BA60"
+    },
+    "Function and method": {
+      "foreground": "#D9AEF5"
     }
   },
   "overrides": {
@@ -42,5 +55,29 @@
     "modernActivityBarItem.hoverBackground": "#1C1A36",
     "activityBarBadge.background": "#BA91D1",
     "activityBarBadge.foreground": "#15132B"
+  },
+  "semanticOverrides": {
+    "function": "#D9AEF5",
+    "method": "#D9AEF5",
+    "class": {
+      "foreground": "#F2BA60",
+      "italic": true
+    },
+    "type": {
+      "foreground": "#F2BA60",
+      "italic": true
+    },
+    "interface": {
+      "foreground": "#F2BA60",
+      "italic": true
+    },
+    "typeParameter": {
+      "foreground": "#F2BA60",
+      "italic": true
+    },
+    "enum": {
+      "foreground": "#F2BA60",
+      "italic": true
+    }
   }
 }

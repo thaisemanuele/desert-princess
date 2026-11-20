@@ -196,7 +196,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#43c7c7"
+        "foreground": "#F2BA60"
       }
     },
     {
@@ -226,7 +226,7 @@
         "meta.function-call entity.name.function"
       ],
       "settings": {
-        "foreground": "#d8c6ec"
+        "foreground": "#D9AEF5"
       }
     },
     {
@@ -269,7 +269,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#8fede6",
+        "foreground": "#F2BA60",
         "fontStyle": "italic"
       }
     },
@@ -279,7 +279,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#8fede6"
+        "foreground": "#F2BA60"
       }
     },
     {
@@ -296,26 +296,26 @@
     }
   ],
   "semanticTokenColors": {
-    "function": "#d8c6ec",
-    "method": "#d8c6ec",
+    "function": "#D9AEF5",
+    "method": "#D9AEF5",
     "class": {
-      "foreground": "#8fede6",
+      "foreground": "#F2BA60",
       "italic": true
     },
     "type": {
-      "foreground": "#8fede6",
+      "foreground": "#F2BA60",
       "italic": true
     },
     "interface": {
-      "foreground": "#8fede6",
+      "foreground": "#F2BA60",
       "italic": true
     },
     "typeParameter": {
-      "foreground": "#8fede6",
+      "foreground": "#F2BA60",
       "italic": true
     },
     "enum": {
-      "foreground": "#8fede6",
+      "foreground": "#F2BA60",
       "italic": true
     },
     "enumMember": {
